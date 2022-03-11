@@ -1,0 +1,11 @@
+**/build/**
+**/dist/**
+**/examples/**
+**/docs/**
+**/coverage/**
+**/storybook-static/**
+**/storybook-static-react/**
+**/jsdocs/**
+**/carbon-stories/**
+**/carbon-tools/**
+packages/web-components/scss/**/*.scss
