@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Carbon for IBM.com GH actions test
+  Carbon for IBM.com
 </h1>
 
 > This library is an extension of the Carbon IBM Design System. It contains
